@@ -21,7 +21,6 @@ Fluffy Button Land is an interactive web-based game where users can interact wit
   - **JavaScript**: To add interactivity, animations, and logic to the game.
   
 - **Libraries/Tools:**
-  - **jQuery** (optional): For easy DOM manipulation and animations.
   - **CSS Animations**: To create smooth transitions and button effects.
 
 ## Why This Project:
