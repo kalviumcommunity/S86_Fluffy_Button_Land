@@ -25,3 +25,7 @@ Fluffy Button Land is an interactive web-based game where users can interact wit
 
 ## Why This Project:
 I chose this project because it allows me to combine creativity with web development. The idea of making an interactive and fun game helps me explore front-end technologies like JavaScript and CSS animations. It’s a great way to practice creating engaging user interfaces while developing my skills in handling events and animations. This project is interesting because it’s lighthearted and fun, and offers the opportunity to experiment with fun design elements
+
+## milestone2
+  Initialize npm project using npm init .
+  Add a .gitignore file to exclude node_modules/ and package-lock.json/ and then added the  ".gitignore" file  and pushed the branch.
