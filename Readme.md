@@ -20,6 +20,8 @@ Fluffy Button Land is an interactive web-based game where users can interact wit
   - **CSS**: For styling the buttons, animations, and overall layout.
   - **JavaScript**: To add interactivity, animations, and logic to the game.
   
+- **Libraries/Tools:**
+  - **jQuery** (optional): For easy DOM manipulation and animations.
   - **CSS Animations**: To create smooth transitions and button effects.
 
 ## Why This Project:
@@ -28,3 +30,9 @@ I chose this project because it allows me to combine creativity with web develop
 ## milestone2
   Initialize npm project using npm init .
   Add a .gitignore file to exclude node_modules/ and package-lock.json/ and then added the  ".gitignore" file  and pushed the branch.
+  # MILESTONE 3:
+- First I created a new branch setup-express .
+- Added server.js with basic Express setup and /ping route.
+- Committed and pushed the changes to GitHub.
+- Created a Pull Request (PR) and requested an AI review using @CodiumAI-Agent /review.
+- Reviewed feedback and merged the PR into the main branch.
