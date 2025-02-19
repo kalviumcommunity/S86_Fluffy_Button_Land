@@ -30,3 +30,26 @@ I chose this project because it allows me to combine creativity with web develop
 ## milestone2
   Initialize npm project using npm init .
   Add a .gitignore file to exclude node_modules/ and package-lock.json/ and then added the  ".gitignore" file  and pushed the branch.
+  # MILESTONE 3:
+- First I created a new branch setup-express .
+- Added server.js with basic Express setup and /ping route.
+- Committed and pushed the changes to GitHub.
+- Created a Pull Request (PR) and requested an AI review using @CodiumAI-Agent /review.
+- Reviewed feedback and merged the PR into the main branch.
+## MILESTONE 4:
+Deployed App Link
+You can view the live app by visiting the following link:
+
+https://s86-fluffy-button-land.onrender.com
+
+Deployment Process
+Login: Logged into Render.com using my Kalvium Community Google account.
+Deploy: Navigated to the Deploy section, selected the Public repository option, and imported the project files.
+Automatic Setup: Render automatically detected the necessary environment settings and deployed the app. I just clicked Deploy, and Render handled the rest.
+Updated Readme: Added the deployment link to this Readme so you can access the live app easily.
+
+
+
+
+
+
