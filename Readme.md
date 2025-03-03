@@ -53,6 +53,12 @@ Updated Readme: Added the deployment link to this Readme so you can access the l
 This Assignment includes API requests generated and exported from Bruno, organized in a folder called docs.bruno. The requests can be used for testing APIs or further integration in the project.
 
 - Bruno: Used to generate and export API requests.
+## MILESTONE6
+Created a MongoDB Atlas database for the project.
+Created 10 entities with properties (like username, score, name, etc.).
+Added sample data to the collections.
+## MILESTONE7
+
 
 
 
