@@ -1,7 +1,7 @@
 // routes/buttonRoutes.js
 const express = require('express');
 const router = express.Router();
-const Button = require('../models/button');
+const Button = require('../../models/Button');
 
 // Create a button
 router.post('/', async (req, res) => {
