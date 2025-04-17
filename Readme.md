@@ -57,7 +57,8 @@ This Assignment includes API requests generated and exported from Bruno, organiz
 Created a MongoDB Atlas database for the project.
 Created 10 entities with properties (like username, score, name, etc.).
 Added sample data to the collections.
-## MILESTONE7
+## Frontend Deploy link:-
+http://fluffybuttonland.netlify.app
 
 
 
